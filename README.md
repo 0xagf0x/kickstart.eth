@@ -1,9 +1,9 @@
 # to deploy a new Campaign Factory + launch the app : 
-- cd ethererum
-- node compile.js //delete existing build folder and rewrite contracts
-- node deploy.js // does the actual deployment
-- get that address and paste it into factory.js
-- cd to root "npm run dev"
+- `cd ethererum`
+- `node compile.js` //delete existing build folder and rewrite contracts
+- `node deploy.js` // does the actual deployment
+- get that address and paste it into `factory.js`
+- cd to root and `npm run dev`
 
 
 
