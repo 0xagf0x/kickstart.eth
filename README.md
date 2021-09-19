@@ -1,5 +1,5 @@
 # Kickstarter.eth
- This app aims to solve the issue other crowdfunding applications suffer from: fraudulent campaigns. 
+ This app aims to solve the issue other crowdfunding applications suffer from: fraudulent campaign spending. 
 
 Kickstarter.eth improves on these platforms by implementing a voting system to help regulate campaign spending. 
 
