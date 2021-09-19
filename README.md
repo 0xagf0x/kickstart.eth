@@ -1,3 +1,14 @@
+# Kickstarter.eth
+ This app aims to solve the issue other crowdfunding applications suffer from: fraudulent campaigns. 
+
+Kickstarter.eth improves on these platforms by implementing a voting system to help regulate campaign spending. 
+
+If the campaign owner wants to spend some of their funded money, they must create a `Request`, detailing address, amount, and what they're spending money on. The `Request` is then voted on by all campaign contributors. 
+
+Once 50%+ approval has been reached, the `Request` will be unlocked and the payment will proceed.
+
+
+
 # to deploy a new Campaign Factory + launch the app : 
 - `cd ethererum`
 - `node compile.js` (deletes existing build folder and rewrite contracts)
