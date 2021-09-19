@@ -1,0 +1,3 @@
+this is the Rinkeby address where our Factory contract lives 
+
+0x95Df6dc1D6eC46839769B381F058f9a4ceF30168
