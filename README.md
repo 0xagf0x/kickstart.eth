@@ -3,7 +3,7 @@
 - `node compile.js` //delete existing build folder and rewrite contracts
 - `node deploy.js` // does the actual deployment
 - get that address and paste it into `factory.js`
-- cd to root and `npm run dev`
+- `cd` to root and `npm run dev`
 
 
 
